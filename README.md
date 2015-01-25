@@ -1,2 +1,0 @@
-# datasciencecoursera
-Exploratory data science
